@@ -1,0 +1,240 @@
+/* Inserta tu codigo aqui */
+
+/*section*/
+
+/*article 1*/
+*{
+    margin-top: 0px;
+}
+
+.hero {
+    background: url(../img/wts-1.JPG) no-repeat;
+    background-size: cover;
+    padding-bottom: 300px;
+    color: white;
+    margin-top: 0px;
+
+}
+
+.hero .btn {
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 60px;
+    font-size: 16px;
+}
+.hero .btn:hover {
+    background-color: lightgrey;
+    color:white;
+}
+.hero .frase{
+    padding-top: 200px;
+    color: white;
+    
+}
+.hero  h1{
+    font-size: 100px;
+     color: white;
+}
+
+.hero p{
+    color:#fff !important;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.madeIn{
+    width: 100%:
+    margin: 0px;
+    padding: 0px;
+    width: 550px;
+    height: 300px;
+}
+
+.dance_1 {
+	background-image: url(../img/wts-1.JPG);
+	
+}
+
+.w-pf {
+	width: 200px;
+	font-size: 15px;
+}
+
+.fs-h2 {
+	font-size: 60px;
+	margin-bottom: -20px;
+}
+
+.inscribete {
+	font-size: 15px;
+	text-align: center;
+	background-color: #020D1C;
+	padding: 10px 20px;
+	text-decoration: none;
+}
+
+/*article 2*/
+
+.textura-2 {
+	background-image: url(../img/textura_2.jpg);
+	height: 350px;
+	padding-top: 80px;
+}
+
+.deco-1 {
+	width: 15%;
+	margin-top: -50px;
+}
+
+.oferta {
+	font-size: 18px;
+	text-align: center;
+	background-color: #192951;
+	padding: 15px 80px;
+	border-radius: 3px;
+	height: 350px;
+}
+
+.first {
+	background-image: url(../img/instructor_4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+
+.second {
+	background-image: url(../img/profesor_9.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 350px;
+}
+
+/*article 3*/
+
+ .nuestros-inst {
+	font-size: 18px;
+	position: absolute;
+	bottom: 17px;
+	left: 450px;
+}
+
+.nuestros-inst a {
+	padding: 20px 100px;
+	background-color: #192951;
+}
+
+.img-articulo {
+	margin: 0 !important; 
+	width: 50% !important;
+}
+
+/*article 4*/
+
+.art-prf {
+	font-size: 40px;
+}
+
+/*artcle 5*/
+
+.color-art {
+	height: 350px;
+	background-color: #192951;
+}
+
+.w-p-a {
+	font-size: 14px;
+	width: 350px;
+}
+
+.art-pd {
+	padding-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
