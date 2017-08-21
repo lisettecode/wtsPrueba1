@@ -31,10 +31,6 @@
 .normal{
     height: 80% !important;
 }
-.q_logo img {
-    top:-45% !important;
-}
-
 @media (max-width: 2000px) {
   .slide_subtitle {
     font-size: 45px !important;
